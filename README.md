@@ -2,7 +2,7 @@
 <html>
 
 <head>
-    <title>好きを伝えるだけのページ</title>
+
 </head>
 
 <body>
